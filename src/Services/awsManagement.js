@@ -33,6 +33,13 @@ const awsManagement =[
         name: "AWS Trusted Advisor",
         description: "Cost Optimazation, Performance, Service Limits, Fault Tolerance, Security. Recommendations: Actions, Investigation. All checks included in Business and Enterprize support plans",
         more: "https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html"
+    },
+    {
+        id: 6,
+        icon: "AWS-Systems-Manager_64",
+        name: "AWS Systems Manager",
+        description: "Operational insights into AWS and ON-PREMISES resources. -group resources -visualize data -take action",
+        more: "https://aws.amazon.com/systems-manager/"
     }
 
 ]
