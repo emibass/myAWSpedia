@@ -11,6 +11,7 @@ import Layout from "../pages/Layout";
 import Developer from "../pages/Developer-Tools";
 import Management from "../pages/Management-Governance";
 import MachineLearning from "../pages/Machine-Learning";
+import Finance from "../pages/Finance";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
         <Route path="security-identity-compliance" element={<Security />} />
         <Route path="developer-tools" element={<Developer />} />
         <Route path="management-governance" element={<Management />} />
+        <Route path="cloud-financial-management" element={<Finance />} />
 
       </Route>
     </Routes>

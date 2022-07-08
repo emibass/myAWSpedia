@@ -16,6 +16,7 @@ function Layout(){
        <div className ="navItem"><Link to = "/Management-Governance">Management-Governance</Link></div> 
        <div className ="navItem"><Link to = "/Networking-Content-Delivery">Networking-Content-Delivery</Link></div> 
        <div className ="navItem"><Link to = "/Security-Identity-Compliance">Security-Identity-Compliance</Link></div> 
+       <div className="navItem"><Link to = "/Cloud-Financial-Management">Cloud-Financial-Management</Link></div>
        
         </nav>
     

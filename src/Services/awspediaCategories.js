@@ -44,6 +44,11 @@ const awspediaCategories = [
     id: 9,
     icon: "Management-Governance_64",
     name: "Management-Governance"
+  },
+  {
+    id: 10,
+    icon: "Cloud-Financial-Management_64",
+    name: "Cloud-Financial-Management"
   }
 ];
 
