@@ -6,11 +6,12 @@ function SecurityEntry(props) {
 
     <div className="term">
       <dt>
+      <a href={props.more}>
         <img 
         className="emoji"
         aria-label="icon"
         src={`../assets/Architecture-Service-Icons_04302022/Arch_Security-Identity-Compliance/64/Arch_${props.icon}.png`}>
-        </img>
+        </img></a>
         <span>{props.name}</span>
         <p>{props.description}</p>
         <a href={props.more}>more...</a>
