@@ -54,6 +54,13 @@ const awsSecurity = [
         name: "AWS IAM (Identity and Access Management)",
         description: "manage AWS permissions for workforce users and workloads. Policy templates availble. Create groups and users",
         more: "https://aws.amazon.com/iam/"
+    },
+    {
+        id: 9,
+        icon: "Amazon-Cognito_64",
+        name: "Amazon Cognito",
+        description: "lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0 and OpenID Connect.",
+        more: "https://aws.amazon.com/cognito/"
     }
 ]
 export default awsSecurity;

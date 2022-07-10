@@ -38,7 +38,7 @@ const awsManagement =[
         id: 6,
         icon: "AWS-Systems-Manager_64",
         name: "AWS Systems Manager",
-        description: "Operational insights into AWS and ON-PREMISES resources. -group resources -visualize data -take action",
+        description: "Centralized Operations HUB - Operational insights into AWS and ON-PREMISES resources. -group resources -visualize data -take action",
         more: "https://aws.amazon.com/systems-manager/"
     }
 
