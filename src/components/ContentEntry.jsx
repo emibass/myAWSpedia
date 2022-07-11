@@ -11,7 +11,7 @@ function ContentEntry(props) {
         className="emoji"
         aria-label="icon"
         src={`../assets/Architecture-Service-Icons_04302022/Arch_Networking-Content-Delivery/64/Arch_${props.icon}.png`}>
-        </img></a>.
+        </img></a>
         <span>{props.name}</span>
         <p>{props.description}</p>
         <a href={props.more}>more...</a>

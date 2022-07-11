@@ -61,6 +61,13 @@ const awsSecurity = [
         name: "Amazon Cognito",
         description: "lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0 and OpenID Connect.",
         more: "https://aws.amazon.com/cognito/"
+    },
+    {
+        id: 10,
+        icon: "Amazon_Detective_64",
+        name: "Amazon Detective",
+        descritpion: "Analyze and visualize security data to rapidly get to the root cause of potential security issues. Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time.",
+        more: "https://aws.amazon.com/detective/"
     }
 ]
 export default awsSecurity;
