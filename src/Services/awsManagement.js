@@ -40,6 +40,13 @@ const awsManagement =[
         name: "AWS Systems Manager",
         description: "Centralized Operations HUB - Operational insights into AWS and ON-PREMISES resources. -group resources -visualize data -take action",
         more: "https://aws.amazon.com/systems-manager/"
+    },
+    {
+        id: 7,
+        icon: "AWS-OpsWorks_64",
+        name: "AWS OpsWorks",
+        description: "A configuration management service that provides managed instances of Chef and Puppet. Chef and Puppet are automation platforms that allow you to use code to automate the configurations of your servers.",
+        more: "https://aws.amazon.com/opsworks/"
     }
 
 ]

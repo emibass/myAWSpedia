@@ -33,6 +33,13 @@ const awsAnalytics = [
     name: "AWS Glue",
     description: "Data INTEGRATION (preparing and combining data) for analytics, machine learning and application development",
     more: "https://aws.amazon.com/glue/?did=ap_card&trk=ap_card&whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc"
+},
+{
+    id: 6,
+    icon: "Amazon-Quicksight_64",
+    name: "Amazon Quicksight",
+    description: "A scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud. QuickSight lets you easily create and publish interactive BI DASHBOARDS",
+    more: "https://aws.amazon.com/quicksight/"
 }
 
 ];
