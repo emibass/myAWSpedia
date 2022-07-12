@@ -64,9 +64,9 @@ const awsSecurity = [
     },
     {
         id: 10,
-        icon: "Amazon_Detective_64",
+        icon: "Amazon-Detective_64",
         name: "Amazon Detective",
-        descritpion: "Analyze and visualize security data to rapidly get to the root cause of potential security issues. Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time.",
+        description: "Analyze and visualize security data to rapidly get to the root cause of potential security issues. Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time.",
         more: "https://aws.amazon.com/detective/"
     }
 ]

@@ -36,8 +36,8 @@ const awsAnalytics = [
 },
 {
     id: 6,
-    icon: "Amazon-Quicksight_64",
-    name: "Amazon Quicksight",
+    icon: "Amazon-QuickSight_64",
+    name: "Amazon QuickSight",
     description: "A scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud. QuickSight lets you easily create and publish interactive BI DASHBOARDS",
     more: "https://aws.amazon.com/quicksight/"
 }
